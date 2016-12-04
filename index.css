@@ -1,0 +1,22 @@
+body {
+	background: #EEEEEE;
+	color: #303030;
+	font: medium Roboto, sans-serif;
+}
+a {
+	color: inherit;
+
+}
+h1 {
+	margin: 0;
+	color: #101010;
+}
+details>p {
+	margin-bottom: 0;
+}
+section {
+	background: #FFFFFF;
+	margin: 0 auto;
+	padding: 1em;
+	width: 50em;
+}
