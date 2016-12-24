@@ -1,42 +1,59 @@
 body {
 
-	background: #EEEEEE;
-	color: #404040;
-	font: 1em "Lato", sans-serif;
+	background: #FAFAFA;
+	color: #303030;
+	font: 1.05em "Source Sans Pro", sans-serif;
+	margin: 0;
+	padding: 0;
 
 }
 
-a {
+* /* xD */ {
 
-	color: inherit;
-	text-decoration: none;
-
-}
-
-h1 {
-
-	margin: 0 1em;
+	margin: 0;
+	padding: 0;
 
 }
 
-p {
+canvas#world {
 
-	margin-bottom: 0;
-
-}
-
-h1#error {
-
-	font-size: 2em;
+	height: 100%;
+	width: 100%;
 
 }
 
 section.container {
 
 	background: #FFFFFF;
-	border: 1px solid #AAAAAA;
+	height: 100vh;
 	margin: 0 auto;
-	padding: 1em;
 	width: 50em;
+
+}
+
+a {
+
+	color: inherit;
+
+}
+
+h1 {
+
+	color: #101010;
+	font: bold 1.75em "Open Sans", sans-serif;
+	padding: 0.75em;
+	padding-left: 1.25em!important;
+
+}
+
+h1#error {
+
+	font-size: 2.25em;
+
+}
+
+p {
+
+	padding-left: 1em;
 
 }
