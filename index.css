@@ -2,13 +2,11 @@ body {
 
 	background: #FAFAFA;
 	color: #303030;
-	font: 1.05em "Source Sans Pro", sans-serif;
-	margin: 0;
-	padding: 0;
+	font: 17px "Source Sans Pro", sans-serif;
 
 }
 
-* /* xD */ {
+* {
 
 	margin: 0;
 	padding: 0;
@@ -18,9 +16,10 @@ body {
 section.container {
 
 	background: #FFFFFF;
+	box-shadow: 1px 1px 5px 3px #AAAAAA;
 	height: 100vh;
 	margin: 0 auto;
-	width: 50em;
+	width: 55%;
 
 }
 
@@ -33,20 +32,14 @@ a {
 h1 {
 
 	color: #101010;
-	font: bold 1.75em "Open Sans", sans-serif;
-	padding: 0.75em;
-	padding-left: 1.25em!important;
-
-}
-
-h1#error {
-
-	font-size: 2.25em;
+	font: bold 30px "Open Sans", sans-serif;
+	padding: 15px;
+	padding-left: 50px!important;
 
 }
 
 p {
 
-	padding-left: 1em;
+	padding-left: 15px;
 
 }
