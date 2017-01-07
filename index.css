@@ -1,7 +1,7 @@
 body {
 
-	background: #FAFAFA;
-	color: #303030;
+	background: #FAFAF2;
+	color: #30302C;
 	font: 16px "Roboto", sans-serif;
 
 }
@@ -31,8 +31,7 @@ a {
 
 h1 {
 
-	color: #101010;
-	font: bold 30px "Open Sans", sans-serif;
+	font: bold 32px "Droid Serif", serif;
 	padding: 15px;
 	padding-left: 50px!important;
 
