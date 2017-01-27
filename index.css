@@ -1,1 +1,27 @@
-*{margin: 0;padding: 0;}body{background: #FAFAFA;color: #303030;font: 16px "Roboto", sans-serif;}section.container{background: #FFFFFF;box-shadow: 1px 1px 5px 3px #AAAAAA;height: 100vh;margin: 0 auto;width: 55%;}a{color: inherit;}h1{color: #101010;font: bold 32px "Roboto Slab", serif;padding: 15px 15px 15px 50px;}p{padding: 0 15px;}
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #FAFAFA;
+    color: #303030;
+    font: 16px "Roboto", sans-serif;
+}
+section.container {
+    background: #FFFFFF;
+    box-shadow: 1px 1px 5px 3px #AAAAAA;
+    height: 100vh;
+    margin: 0 auto;
+    width: 55%;
+}
+a {
+    color: inherit;
+}
+h1 {
+    color: #101010;
+    font: bold 32px "Roboto Slab", serif;
+    padding: 15px 15px 15px 50px;
+}
+p {
+    padding: 0 15px;
+}
