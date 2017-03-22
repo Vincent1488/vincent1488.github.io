@@ -10,7 +10,7 @@ body {
 	background: #FAFAFA;
 	color: #404040;
 	font: 17px "Source Sans Pro", sans-serif;
-	overflow: scroll;
+	overflow: auto;
 	text-align: justify;
 
 }
