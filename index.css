@@ -8,17 +8,17 @@
 body {
 
 	background: #FAFAFA;
-	color: #303030;
-	font: 16px "Source Sans Pro", sans-serif;
+	color: #404040;
+	font: 17px "Source Sans Pro";
 
 }
 
 section.container {
 
 	background: #FFFFFF;
-	border-left: 1px solid #E7E7E7;
-	border-right: 1px solid #E7E7E7;
-	box-shadow: 0 0 15px rgba(0,0,0,0.07);
+	border: 1px solid #E7E7E7;
+	border-width: 0 1px 0 1px;
+	box-shadow: 0 0 15px #E7E7E7;
 	height: 100vh;
 	margin: 0 auto;
 	width: 55%;
@@ -27,21 +27,45 @@ section.container {
 
 a {
 
-	color: #101010;
+	color: inherit;
+	text-decoration: none;
+
+}
+
+nav.navigator {
+
+	background: #202020;
+	border: 1px solid #101010;
+	border-width: 0 1px 0 1px;
+	box-shadow: 0 0 3px #101010;
+	color: #FAFAFA;
+	font-size: 30px;
+	margin-bottom: 10px;
+	padding: 5px;
+
+}
+
+nav.navigator>strong, nav.navigator>a {
+
+	padding: 0px 30px;
+
+}
+
+a.contact {
+
+	text-decoration: underline;
+
+}
+
+p.diss {
+
+	font-size: 30px;
+	text-align: center;
 
 }
 
 p {
 
-	padding: 0 15px;
-
-}
-
-h1 {
-
-	color: #101010;
-	font-size: 32px;
-	font-weight: bold;
-	padding: 5px 5px 5px 40px;
+	padding: 0px 20px;
 
 }
