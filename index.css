@@ -22,9 +22,6 @@ section.container {
 	height: 100vh;
 	margin: 0 auto;
 	width: 55%;
-	/* Hmmm... */
-	min-width: 55%;
-	max-width: 55%;
 
 }
 
